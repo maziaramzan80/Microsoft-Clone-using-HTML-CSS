@@ -1,12 +1,10 @@
 # 💻 Microsoft Homepage Clone
 
-A fully responsive **Microsoft Homepage Clone** built using **HTML5** and **CSS3**. This project recreates the modern Microsoft landing page with a clean user interface, responsive design, and pixel-perfect layout. It was developed to improve frontend development skills by practicing real-world website cloning techniques.
+A responsive **Microsoft Homepage Clone** built using **HTML5** and **CSS3**. This project recreates the modern Microsoft landing page with a clean user interface, responsive design, and pixel-perfect layout. It was developed to improve frontend development skills by practicing real-world website cloning techniques.
 
 ## ✨ Features
 
 - 🎨 Modern Microsoft-inspired UI
-- 📱 Fully responsive design for desktop, tablet, and mobile
-- 🧭 Responsive navigation bar
 - 🖼️ Hero banner section
 - 📦 Product cards with hover effects
 - 📢 Promotional banner section
@@ -19,11 +17,6 @@ A fully responsive **Microsoft Homepage Clone** built using **HTML5** and **CSS3
 
 - HTML5
 - CSS3
-- Flexbox
-- CSS Grid
-- Media Queries
-- Google Fonts
-- Font Awesome Icons
 
 ## 📸 Preview
 
